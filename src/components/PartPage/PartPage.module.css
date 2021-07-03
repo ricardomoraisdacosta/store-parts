@@ -1,0 +1,11 @@
+.partPage {
+  border: 1px solid black;
+}
+
+.partPage > p {
+  margin: 2rem;
+}
+
+.partPage > h1 {
+  margin: 2rem;
+}
